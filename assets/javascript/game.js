@@ -51,7 +51,7 @@ document.onkeyup = function(event) {
         document.querySelector("#wins").innerHTML = "wins: " + wins;
         document.querySelector("#losses").innerHTML = "losses: " + losses;
         document.querySelector("#turns").innerHTML = "turns: " + turns;
-        document.querySelector("#lettersChosen").innerHTML = "already: " + lettersChosen;
+        document.querySelector("#lettersChosen").innerHTML = "already chosen: " + lettersChosen;
 
 
         
